@@ -89,6 +89,7 @@ module.exports = {
         start_url: siteConfig.prefix,
         background_color: `#ffffff`,
         theme_color: `#714016`,
+        // theme_color: `#696a67`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },
