@@ -1,0 +1,62 @@
+{
+  "menu": {
+    "home": "home",
+    "concept": "concept",
+    "materials": "materialen",
+    "contact": "contact",
+    "green": "milieu"
+  },
+  "home": {
+    "link_name": "Thuis",
+    "titel": "Het Concept",
+    "description1": "Betaalbaar CAD/CAM maatwerk",
+    "description2": "Mooie verbindingstechnieken",
+    "description3": "Eigen ontwerp, ontwerpen van klanten en ontwerpen in opdracht",
+    "description4": "Individuele objecten en series",
+    "description5": "Het prijsverschil tussen massaproductie en maatwerk is verdwenen."
+  },
+  "concept": {
+    "link_name": "Contact",
+    "nieuwe_verbindingstechnieken": "Nieuwe verbindingstechnieken",
+    "computergestuurde_frees": "Met onze computergestuurde frees kunnen wij betaalbaar ieder meubel op iedere gewenste maat maken.",
+    "scharnieren_overbodig": "Door nieuwe verbindingstechnieken zijn schroeven, bouten en zelfs scharnieren overbodig.",
+    "techniek_ontwerp": {
+      "wie": "Wie ontwerpt?",
+      "wij_maken": "Wij maken:",
+      "eigen_ontwerp": "eigen ontwerp,",
+      "ontwerpen_van_klanten": "ontwerpen van klanten,",
+      "we_ontwerpen_voor_klanten": "we ontwerpen voor klanten."
+    },
+    "zaagrobot": {
+      "zaagrobot": "Zaagrobot",
+      "duur_ingewikkeld": "Tot voor kort was het niet mogelijk om betaalbaar computer gefreesde maatwerkmeubels te maken voor individuele klanten.",
+      "beschikbaar_betaalbaarder": "Met onze robot kunnen wij dit nu voor zowel de individuele klant als voor bedrijven. Het frezen gaat snel en ook het tekenen en aanpassen van tekeningen kost met nieuwe software veel minder tijd. Het prijsverschil tussen massaproductie en maatwerk is verdwenen."
+    },
+    "maatwerk": {
+      "maatwerk": "Maatwerk zonder Meerprijs",
+      "tweedeling": "Vroeger was er een tweedeling:",
+      "maatwerk_bullet": "maatwerk",
+      "serieproductie": "serieproductie",
+      "een_of_tien": "Als je één meubel tekent en zaagt, kan je maatwerk leveren, maar tekenen, meten en machines instellen voor de productie van één meubel is tijdrovend. Als je tien dezelfde meubels maakt, daalt de prijs per meubel snel, maar je hebt wel tien identieke meubels.",
+      "tweedeling_bestaat_niet": "Deze tweedeling bestaat niet meer: tekenen en aanpassen van tekeningen kost met nieuwe software veel minder tijd en onze machine zet individuele tekeningen om in individuele meubels.",
+      "conclusie": "Het prijsverschil tussen massaproductie en maatwerk is verdwenen."
+    },
+    "onze_machine": {
+      "onze_machine": "Onze Machine",
+      "cad_cam": "Wij werken met CAD/CAM: Computer Aided Design / Computer Aided Manufacturing.",
+      "werkbereik": "We ontwerpen met een tekenprogramma. De computergestuurde frees leest de tekening en maakt het meubel. De frees, feitelijk een zaagrobot, is door ons zelf gebouwd en heeft een werkbereik van 250 x 135 x 40 cm."
+    },
+    "geeks": {
+      "voor_de_geeks": "Voor de Geeks",
+      "fusion360": "Wij tekenen in Fusion 360 van Autodesk (fantastisch programma!)",
+      "cam_pad": "Het CAM-pad, de weg die de frees gaat afleggen, tekenen we ook in Fusion 360.",
+      "brackets": "Fusion gebruikt een automatisch hulprogrammaatje, brackets. Brackets zet het CAM-pad van Fusion om in G code. G code is niets meer dan een lange rij punten in een gedefinieerde 3D ruimte.",
+      "mach3": "Onze CNC frees wordt aangestuurd door een pc met daarop het CAM programma Mach 3.",
+      "breakout_board": "Mach 3 leest de G code en stuurt ze door naar een breakout board. Het breakout board verdeelt de signalen over de drivers van de X, Y en Z motoren."
+    }
+  },
+  "notfound": {
+    "header": "Niet gevonden",
+    "description": "Deze pagina bestaat niet..., aargh."
+  }
+}

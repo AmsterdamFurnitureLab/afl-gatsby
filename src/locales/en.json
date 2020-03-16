@@ -1,0 +1,62 @@
+{
+  "menu": {
+    "home": "home",
+    "concept": "concept",
+    "materials": "materials",
+    "contact": "contact",
+    "green": "green"
+  },
+  "home": {
+    "link_name": "Thuis",
+    "titel": "The Concept",
+    "description1": "Affordable CAD / CAM customization",
+    "description2": "Beautiful connection techniques",
+    "description3": "Own design, client designs and commissioned designs",
+    "description4": "Individual objects and series",
+    "description5": "The price difference between mass production and customization has disappeared."
+  },
+  "concept": {
+    "link_name": "concept",
+    "nieuwe_verbindingstechnieken": "New connection solutions",
+    "computergestuurde_frees": "With our bloody saw we can do anything we like.",
+    "scharnieren_overbodig": "By using new joining techniques, screws, bolts and even hinges are no longer needed.",
+    "techniek_ontwerp": {
+      "wie": "Who designs?",
+      "wij_maken": "We make:",
+      "eigen_ontwerp": "inhouse design,",
+      "ontwerpen_van_klanten": "design by the client,",
+      "we_ontwerpen_voor_klanten": "we design for the client."
+    },
+    "zaagrobot": {
+      "zaagrobot": "Sawing robot",
+      "duur_ingewikkeld": "Until recently, building a robot that sawed large sheets of wood into furniture was expensive and complicated.",
+      "beschikbaar_betaalbaarder": "Now the knowledge for building such a machine is much easier available and the parts have become much more affordable."
+    },
+    "maatwerk": {
+      "maatwerk": "Customization without surcharge",
+      "tweedeling": "There used to be a dichotomy:",
+      "maatwerk_bullet": "customization",
+      "serieproductie": "serial production",
+      "een_of_tien": "If you draw and saw one piece of furniture, you can deliver custom work, but drawing, measuring and setting machines for the production of one piece of furniture is time-consuming. If you make ten the same furniture, the price per piece of furniture will fall quickly, but you will have ten identical pieces of furniture.",
+      "tweedeling_bestaat_niet": "This dichotomy no longer exists: drawing and adjusting drawings takes much less time with new software and our machine converts individual drawings into individual furniture.",
+      "conclusie": "The price difference between mass production and customization has disappeared."
+    },
+    "onze_machine": {
+      "onze_machine": "Our Machine",
+      "cad_cam": "We work with CAD / CAM: computer aided design / computer aided manufacturing.",
+      "werkbereik": "We design with a drawing program, the computer-controlled cutter reads the drawing and makes the furniture. The cutter, actually a saw robot, is built by us and has a working range of 250 x 135 x 40 cm."
+    },
+    "geeks": {
+      "voor_de_geeks": "For the Geeks",
+      "fusion360": "We draw in Fusion 360 from Autodesk (fantastic program!)",
+      "cam_pad": "We also draw the CAM path, the path that the cutter will travel, in Fusion 360.",
+      "brackets": "Fusion uses an automatic utility, brackets. Brackets converts the CAM path of Fusion into G code. G code is nothing more than a long line of points in a defined 3D space.",
+      "mach3": "Our CNC cutter is controlled by a PC with the CAM program Mach 3.",
+      "breakout_board": "Mach 3 reads the G code and forwards it to a breakout board. The breakout board distributes the signals among the drivers of the X, Y and Z engines."
+    }
+  },
+  "notfound": {
+    "header": "NOT FOUND",
+    "description": "You just hit a route that doesn't exist... the sadness."
+  }
+}
