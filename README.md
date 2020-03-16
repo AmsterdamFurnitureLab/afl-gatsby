@@ -15,4 +15,4 @@ This is the Amsterdam Furniture Lab website:
 
 ### Current Netlify link
 
-* Go [here](https://app.netlify.com/sites/quizzical-nobel-84fdca/deploys/5e6f373fb6f8081af9acd44f) to see the site live.
+* Go [here](https://5e6f5189964e7d000753b28f--quizzical-nobel-84fdca.netlify.com/) to see the site live.
