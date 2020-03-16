@@ -8,9 +8,18 @@ This is the Amsterdam Furniture Lab website:
 * Runs on Netlify
 
 ### Todo:
+
+#### Code
 * Markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
-* Homepictures are dynamic, but therefor lag.
-* Content / translation needs to edited. 
+* Homepictures are dynamic, but therefor lag (y/n?)
+* On mobile: clicking already selected route should fold menu.
+
+#### Content
+* Overall: Content / translation needs to edited. 
+* Photos lacking resolution:
+    - inspiration
+    - bench no.1
+
 
 ### Current Netlify link
 

@@ -4,6 +4,11 @@ date: "2020-03-20"
 thumbnail: ./AFL_kids8_detail.jpeg
 description: Kinder Tafel met Los Stoeltje
 ---
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Bear](./AFL_kids9.jpeg)
+
+</div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
@@ -20,17 +25,7 @@ description: Kinder Tafel met Los Stoeltje
 ![Bear](./AFL_kids3.jpeg)
 
 </div>
-<div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids8.jpeg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids10.jpeg)
-
-</div>
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids11.jpeg)
@@ -60,6 +55,12 @@ description: Kinder Tafel met Los Stoeltje
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids9.jpeg)
+![Bear](./AFL_kids10.jpeg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![Bear](./AFL_kids8.jpeg)
 
 </div>
