@@ -7,12 +7,17 @@ description: Kast Zonder Scharnieren No. 6
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![CWH-6](./IMG_0738.jpeg)
+![CWH-6](./IMG_0756.jpeg)
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0741.jpeg)
+</div>
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+![CWH-6](./IMG_0754.jpeg)
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
@@ -28,15 +33,5 @@ description: Kast Zonder Scharnieren No. 6
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![CWH-6](./IMG_0756.jpeg)
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![CWH-6](./IMG_0754.jpeg)
 </div>
 

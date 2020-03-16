@@ -25,8 +25,8 @@ const BlogIndex = ({data}, location) => {
             {({language: currentLanguage}) => (
                 <Layout title={siteTitle}>
                     <SEO
-                        title="All posts"
-                        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+                        title="Home"
+                        keywords={[`shop`, `gatsby`, `javascript`, `react`]}
                     />
 
                     {/* <div className="configurator-canvas">

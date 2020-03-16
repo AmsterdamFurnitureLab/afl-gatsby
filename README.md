@@ -11,7 +11,8 @@ This is the Amsterdam Furniture Lab website:
 
 #### Code
 * Markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
-* Homepictures are dynamic, but therefor lag (y/n?)
+* Home picture-tiles are dynamic, but therefor lag. Make static somehow.
+* Accessibility Titles: need translation as well...!?
 * On mobile: clicking already selected route should fold menu.
 
 #### Content
