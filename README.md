@@ -7,10 +7,11 @@ This is the Amsterdam Furniture Lab website:
 
 
 ### Todo:
-* markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
-* fonts are not served.
-* homepictures are dynamic, but therefor lag.
-* english seems default language.
+* Markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
+* Fonts are not served.
+* Homepictures are dynamic, but therefor lag.
+* English seems default language.
+* Content / translation needs to edited. 
 
 ### Current Netlify link
 
