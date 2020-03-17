@@ -1,7 +1,7 @@
 ---
 title: CNC uitgelegd
 date: "2000-01-01"
-description: Dit is een uitleg wat CNC is en hoe het werkt.
+description: Dit is een uitleg wat CNC is en hoe het werkt
 thumbnail: ./seriousDog.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: CNC explained
 date: "2000-01-01"
-description: This is an explanation on what CNC is and how it works.
+description: This is an explanation on what CNC is and how it works
 thumbnail: ./seriousDog.jpg
 ---
 

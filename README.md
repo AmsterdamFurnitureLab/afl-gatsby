@@ -14,6 +14,7 @@ This is the Amsterdam Furniture Lab website:
 * Home picture-tiles are dynamic, but therefor lag. Make static somehow.
 * Accessibility Titles: need translation as well...!?
 * On mobile: clicking already selected route should fold menu.
+* Scrollmanager: end of 'blog' should have button to return to previous home scrollposition.
 
 #### Content
 * Overall: Content / translation needs to edited. 

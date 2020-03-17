@@ -17,7 +17,7 @@ const AboutPage = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="Materialen"
+        title="Contact"
         keywords={[
           `AFL`,
           `Amsterdam Furniture Lab`,
@@ -42,7 +42,7 @@ const AboutPage = ({ data }, location) => {
       </article>
     </Layout>
   )
-}
+};
 
 const indexQuery = graphql`
   query {
@@ -59,7 +59,7 @@ const indexQuery = graphql`
       }
     }
   }
-`
+`;
 
 export default props => (
   <StaticQuery
