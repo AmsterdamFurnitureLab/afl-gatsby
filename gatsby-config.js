@@ -5,9 +5,7 @@ module.exports = {
   siteMetadata: {
     title: siteConfig.name,
     author: siteConfig.author,
-    siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
-    // defaultLanguage: siteConfig.defaultLanguage,
-    // supportedLanguages: siteConfig.supportedLanguages,
+    siteUrl: urljoin(siteConfig.url, siteConfig.prefix)
   },
   plugins: [
     {
