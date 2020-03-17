@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: siteConfig.name,
     author: siteConfig.author,
-    siteUrl: urljoin(siteConfig.url, siteConfig.prefix)
+    siteUrl: urljoin(siteConfig.url, siteConfig.prefix),
   },
   plugins: [
     {
