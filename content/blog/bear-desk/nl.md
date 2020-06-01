@@ -2,7 +2,7 @@
 title: Beer Tafel & Stoel
 date: "2020-03-20"
 thumbnail: ./AFL_kids8_detail.jpeg
-description: Kinder Tafel met Los Stoeltje
+description: voor kinderen tot vier jaar
 ---
 <div class="kg-card kg-image-card kg-width-wide">
 
