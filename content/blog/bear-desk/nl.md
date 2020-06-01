@@ -12,7 +12,7 @@ description: Kinder Tafel met Los Stoeltje
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids13.jpeg)
+![Bear](./AFL_kids12.jpeg)
 
 </div>
 <div class="kg-card kg-image-card kg-width-wide">
@@ -33,21 +33,9 @@ description: Kinder Tafel met Los Stoeltje
 </div>
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids12.jpeg)
+![Bear](./AFL_kids13.jpeg)
 
 </div>
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids_fixed_seat_1.jpeg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids_fixed_seat_2.jpeg)
-
-</div>
-
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids10.jpeg)
