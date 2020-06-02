@@ -9,17 +9,17 @@
   "home": {
     "link_name": "Thuis",
     "titel": "The Concept",
-    "description1": "Affordable CAD / CAM customization",
+    "description1": "Affordable CAD / CAM custom furniture",
     "description2": "Beautiful connection techniques",
     "description3": "Own design, client designs and commissioned designs",
     "description4": "Individual objects and series",
-    "description5": "The price difference between mass production and customization has disappeared."
+    "description5": "The price difference between mass production and custom work has disappeared."
   },
   "concept": {
     "link_name": "concept",
     "nieuwe_verbindingstechnieken": "New connection solutions",
-    "computergestuurde_frees": "With our bloody saw we can do anything we like.",
-    "scharnieren_overbodig": "By using new joining techniques, screws, bolts and even hinges are no longer needed.",
+    
+    "scharnieren_overbodig": "By using new joining techniques, screws, bolts and even hinges are no longer necessary.",
     "techniek_ontwerp": {
       "wie": "Who designs?",
       "wij_maken": "We make:",
@@ -49,7 +49,7 @@
     "geeks": {
       "voor_de_geeks": "For the Geeks",
       "fusion360": "We draw in Fusion 360 from Autodesk (fantastic program!)",
-      "cam_pad": "We also draw the CAM path, the path that the cutter will travel, in Fusion 360.",
+      "cam_pad": "We also draw the CAM path, the path that the cutter will cut, in Fusion 360.",
       "brackets": "Fusion uses an automatic utility, brackets. Brackets converts the CAM path of Fusion into G code. G code is nothing more than a long line of points in a defined 3D space.",
       "mach3": "Our CNC cutter is controlled by a PC with the CAM program Mach 3.",
       "breakout_board": "Mach 3 reads the G code and forwards it to a breakout board. The breakout board distributes the signals among the drivers of the X, Y and Z engines."
@@ -57,6 +57,6 @@
   },
   "notfound": {
     "header": "NOT FOUND",
-    "description": "You just hit a route that doesn't exist... the sadness."
+    "description": "You just hit a route that doesn't exist... the sadness!."
   }
 }
