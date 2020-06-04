@@ -8,6 +8,9 @@ This is the Amsterdam Furniture Lab website:
 * Runs on Netlify
 
 ### Todo:
+concept eng: concept.computergestuurde_frees is zichtbaar geworden, verwijderen 
+
+Hoe zet ik in een blogpost tekst onder een foto?
 
 #### Code
 * Markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
