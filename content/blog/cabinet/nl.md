@@ -1,8 +1,10 @@
 ---
-title: Kast No.2 and No.3
+title: kast zonder scharnieren
 date: "2020-03-19"
 thumbnail: ./KZSIIIblauw2_voor.jpeg
-description: Kast Zonder Scharnieren No.2 & No.3
+description: kast zonder scharnieren No.2 & No.3
+description: Mogelijk in ieder formaat,
+description: (deels) open, of met laden
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
