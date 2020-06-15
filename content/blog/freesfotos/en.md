@@ -1,5 +1,5 @@
 ---
-title: Frees
+title: CNC mill
 date: "2010-01-01"
 thumbnail: ./frees-aan-het-werk-1.jpg
 
@@ -9,4 +9,3 @@ thumbnail: ./frees-aan-het-werk-1.jpg
 ![Frees](./frees-aan-het-werk-1.jpg)
 
 </div>
-
