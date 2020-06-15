@@ -15,5 +15,6 @@ description: Bench No. 1
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![bench1](./bank1 rechtsvoor.jpeg)
-
+Frame black mdf, seat and backrest green mdf.
+Available in every size
 </div>
