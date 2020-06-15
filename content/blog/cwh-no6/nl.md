@@ -2,7 +2,7 @@
 title: Kast No.6
 date: "2020-03-15"
 thumbnail: ./IMG_0757.jpeg
-description: Kast Zonder Scharnieren No. 6
+description: Kast Zonder Scharnieren No. 6+
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">

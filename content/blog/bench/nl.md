@@ -15,5 +15,5 @@ description: Bank No.1
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![bench1](./bank1 rechtsvoor.jpeg)
-description: aap 
+aap 
 </div>

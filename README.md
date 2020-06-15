@@ -12,6 +12,8 @@ concept eng: concept.computergestuurde_frees is zichtbaar geworden, verwijderen
 
 Hoe zet ik in een blogpost tekst onder een foto?
 
+Begrijp nu eindelijk, denk ik, wat Sietse bedoelde: je kan als je in een blogpost zit, niet van taal wisselen: alleen de bovenbalk verandert van taal, de kope boven de blogpost niet
+
 #### Code
 * Markdown files do not have proper internationalized routing. See [this issue](https://stackoverflow.com/questions/60691650/adjust-slug-routing-using-gatsby-plugin-intl) on stackoverflow.
 * Home picture-tiles are dynamic, but therefor lag. Make static somehow.
