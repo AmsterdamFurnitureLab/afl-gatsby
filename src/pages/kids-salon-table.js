@@ -150,7 +150,7 @@ const indexQuery = graphql`
       }
     }
     stapeltje: file(
-      relativePath: { eq: "materialen/gekleurd_mdf/stapeltje.png" }
+      relativePath: { eq: "materialen/gekleurd_mdf/stapeltjemdf.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
