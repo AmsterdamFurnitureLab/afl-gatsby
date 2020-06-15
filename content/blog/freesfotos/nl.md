@@ -1,8 +1,8 @@
 ---
 title: Frees
-date: "2020-04-18"
+date: "2020-01-01"
 thumbnail: ./frees-aan-het-werk-1.jpg
-description: Frees foto's
+
 ---
 <div class="kg-card kg-image-card kg-width-wide">
 
