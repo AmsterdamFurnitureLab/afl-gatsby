@@ -158,7 +158,7 @@ const indexQuery = graphql`
         }
       }
     }
-    innovus: file(relativePath: { eq: "materialen/gekleurd_mdf/innovus.png" }) {
+    innovus: file(relativePath: { eq: "materialen/gekleurd_mdf/innovus.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1360) {
           ...GatsbyImageSharpFluid
