@@ -15,5 +15,6 @@ description: Bank No.1
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![bench1](./bank1 rechtsvoor.jpeg)
-aap 
+Frame zwart mdf, zitting en rugleuning groen mdf.
+In iedere maat leverbaar.
 </div>
