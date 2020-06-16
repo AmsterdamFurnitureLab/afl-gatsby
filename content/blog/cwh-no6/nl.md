@@ -1,6 +1,6 @@
 ---
 title: Kast Zonder Scharnieren No.6
-date: "2020-03-15"
+date: "2018-03-15"
 thumbnail: ./IMG_0757.jpeg
 
 ---
