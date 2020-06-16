@@ -2,7 +2,7 @@
 title: Beer Tafel & Stoel
 date: "2020-03-20"
 thumbnail: ./AFL_kids8_detail.jpeg
-description: voor kinderen tot vier jaar
+description: voor peuters en kleuters
 ---
 <div class="kg-card kg-image-card kg-width-wide">
 
@@ -45,5 +45,5 @@ description: voor kinderen tot vier jaar
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids8.jpeg)
-
+Materiaal: populieren multiplex. <br>Voor meer opties zie 'Materialen'.
 </div>
