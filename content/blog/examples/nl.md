@@ -1,6 +1,6 @@
 ---
 title: Inspiratie
-date: "2001-01-01"
+date: "2014-01-01"
 thumbnail: ./ka_hol3D.jpeg
 description: Voorbeelden ter Inspiratie.
 ---
