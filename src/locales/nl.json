@@ -30,7 +30,7 @@
     "zaagrobot": {
       "zaagrobot": "Zaagrobot",
       "duur_ingewikkeld": "Tot voor kort was het niet mogelijk om betaalbaar computer gefreesde maatwerkmeubels te maken voor individuele klanten.",
-      "beschikbaar_betaalbaarder": "Met onze robot kunnen wij dit nu voor zowel de individuele klant als voor bedrijven. Het frezen gaat snel en ook het tekenen en aanpassen van tekeningen kost met nieuwe software veel minder tijd. Het prijsverschil tussen massaproductie en maatwerk is verdwenen."
+      "beschikbaar_betaalbaarder": "Met onze robot kunnen wij dit nu voor zowel de individuele klant als voor bedrijven. Het frezen gaat snel en ook het tekenen en aanpassen van tekeningen kost met nieuwe software veel minder tijd."
     },
     "maatwerk": {
       "maatwerk": "Maatwerk zonder Meerprijs",
@@ -52,7 +52,7 @@
       "cam_pad": "Het CAM-pad, de weg die de frees gaat afleggen, tekenen we ook in Fusion 360.",
       "brackets": "Fusion gebruikt een automatisch hulprogrammaatje, brackets. Brackets zet het CAM-pad van Fusion om in G code. G code is niets meer dan een lange rij punten in een gedefinieerde 3D ruimte.",
       "mach3": "Onze CNC frees wordt aangestuurd door een pc met daarop het CAM programma Mach 3.",
-      "breakout_board": "Mach 3 leest de G code en stuurt ze door naar een breakout board. Het breakout board verdeelt de signalen over de drivers van de X, Y en Z motoren."
+      "breakout_board": "Mach 3 leest de G code en stuurt ze door naar een breakout board. Het breakout board verdeelt de signalen over de drivers van de X, Y en Z motoren, waardoor de frees het gekozen CAM-pad volgt."
     }
   },
   "notfound": {
