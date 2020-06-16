@@ -1,6 +1,6 @@
 ---
 title: Stoel
-date: "2005-02-20"
+date: "2015-02-20"
 thumbnail: ./P9Lzij.LARGE.jpg
 description: Designer Alejandro Alepan
 ---
