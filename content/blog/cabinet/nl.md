@@ -1,6 +1,6 @@
 ---
 title: kast zonder scharnieren
-date: "2020-03-19"
+date: "2019-03-19"
 thumbnail: ./KZSIIIblauw2_voor.jpeg
 description: kast zonder scharnieren No.2 & No.3 
 ---
