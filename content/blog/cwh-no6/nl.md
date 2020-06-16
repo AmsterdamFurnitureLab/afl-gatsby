@@ -1,13 +1,14 @@
 ---
-title: Kast No.6
+title: Kast Zonder Scharnieren No.6
 date: "2020-03-15"
 thumbnail: ./IMG_0757.jpeg
-description: Kast Zonder Scharnieren No. 6+
+description: Kast Zonder Scharnieren No. 6
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0756.jpeg)
+Materiaal: bamboe in olie / zwart mdf gelakt.
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
@@ -33,5 +34,6 @@ description: Kast Zonder Scharnieren No. 6+
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
+Voor meer materiaalopties, zie 'materiaal'.
 </div>
 
