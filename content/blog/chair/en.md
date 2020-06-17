@@ -2,7 +2,7 @@
 title: Chair
 date: "2005-02-20"
 thumbnail: ./P9Lzij.LARGE.jpg
-description: Designer Chair
+description: by Alejandro Alepan
 ---
 
 
@@ -14,7 +14,7 @@ description: Designer Chair
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![chair](./P9Lschuinvoor.LARGE.jpg)
-
+Material: pine multiplex
 </div>
 <div class="kg-card kg-image-card kg-width-wide">
 
@@ -24,5 +24,5 @@ description: Designer Chair
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![chair](./P9Lschuinachter.LARGE.jpg)
-
+For more material option, see [materials](amsterdamfurniturelab.nl/en/materials)
 </div>
