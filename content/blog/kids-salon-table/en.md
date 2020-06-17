@@ -1,13 +1,13 @@
 ---
-title: Kids' Salon Table
+title: Low Table
 date: "2001-03-01"
 thumbnail: ./bambooKidsSalonTable1.jpeg
-description: A bamboo salon table for the young intellectual
+
 ---
 
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![SalonTable](./newYorkerBoat.jpeg)
+Top 30 mm Bamboo in oil, frame 10 mm black mdf. <br>Available in any size.
 
 </div>
