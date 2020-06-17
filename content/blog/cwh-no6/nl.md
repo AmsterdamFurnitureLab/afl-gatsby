@@ -14,6 +14,7 @@ Materiaal: bamboe in olie / zwart mdf gelakt.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0741.jpeg)
+Maat: 205 x 40 x 80 cm.
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
