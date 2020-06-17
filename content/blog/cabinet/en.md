@@ -8,7 +8,7 @@ description: Cabinet Without Hinges No.2 & No.3
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![cabinet](./KZSIII_blauw1linksvoor.jpeg)
-
+Custom made in desired size. <br> Many material options, see 'Materials'. <br>Open shelves and/or drawers also possible.
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
