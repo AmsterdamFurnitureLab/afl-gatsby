@@ -31,7 +31,7 @@ const AboutPage = ({ data }, location) => {
         <div className="post-content-body">
           <h3 id="green">Milieu</h3>
           <p>
-            Wij werken niet met ongecertificeerd hardhout. Ons plaatmateriaal en
+            Wij werken niet met ongecertificeerd hout. Ons plaatmateriaal en
             massief hout zijn Fsc of PEFC gecertificeerd. Fsc/PEFC hout komt uit
             de duurzame bosbouw: geen roofkap, de bomen worden hergeplant. We
             werken graag met 100% duurzame produkten zoals bijvoorbeeld EKOply
