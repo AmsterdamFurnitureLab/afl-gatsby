@@ -7,7 +7,7 @@ description: Toddler Desk with Separate Seat
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids12.jpeg)
-
+Material: pine multiplex
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
@@ -50,5 +50,5 @@ description: Toddler Desk with Separate Seat
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids8.jpeg)
-
+For more material options, see 'materials'.
 </div>
