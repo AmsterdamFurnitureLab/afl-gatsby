@@ -45,5 +45,5 @@ description: voor peuters en kleuters
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids8.jpeg)
-Materiaal: populieren multiplex. <br>Voor meer opties zie 'Materialen'.
+Materiaal: populieren multiplex. <br>Voor meer opties zie [Materialen] (/nl/materials)
 </div>
