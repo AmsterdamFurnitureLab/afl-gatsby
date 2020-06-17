@@ -13,6 +13,7 @@ description: Cabinet Without Hinges No. 6
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0741.jpeg)
+Material: Bamboo in oil / varnished black mdf.
 </div>
 
 
@@ -20,6 +21,7 @@ description: Cabinet Without Hinges No. 6
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0754.jpeg)
+Size: 205 x 40 x 80 cm. 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
