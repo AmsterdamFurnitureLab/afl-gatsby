@@ -6,7 +6,7 @@ description: Toddler Desk with Separate Seat
 ---
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids2.jpeg)
+![Bear](./AFL_kids12.jpeg)
 
 </div>
 
@@ -33,7 +33,7 @@ description: Toddler Desk with Separate Seat
 </div>
 <div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids12.jpeg)
+![Bear](./AFL_kids2.jpeg)
 
 </div>
 <div class="kg-card kg-image-card kg-width-wide">
