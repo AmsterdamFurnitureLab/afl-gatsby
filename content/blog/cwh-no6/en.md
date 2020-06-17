@@ -37,6 +37,7 @@ Size: 205 x 40 x 80 cm.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
+For more material options, see [Materials] (amsterdamfurniturelab.nl/en/materials).
 </div>
 
 
