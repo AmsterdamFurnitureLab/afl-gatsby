@@ -37,14 +37,14 @@
       "tweedeling": "There used to be a dichotomy:",
       "maatwerk_bullet": "customization",
       "serieproductie": "serial production",
-      "een_of_tien": "If you draw and saw one piece of furniture, you can deliver custom work, but drawing, measuring and setting machines for the production of one piece of furniture is time-consuming. If you make ten identical pieces of furniture, the price per piece of furniture will fall quickly, but you will be all identical.",
+      "een_of_tien": "If you draw and saw one piece of furniture, you can deliver custom work, but drawing, measuring and setting machines for the production of one piece of furniture is time-consuming. If you make ten identical pieces of furniture, the price per piece of furniture will fall quickly, but they will be all identical.",
       "tweedeling_bestaat_niet": "This dichotomy no longer exists: drawing and adjusting drawings takes much less time with new software and our machine converts individual drawings into individual pieces of furniture.",
       "conclusie": "The price difference between mass production and customization has disappeared."
     },
     "onze_machine": {
       "onze_machine": "Our Machine",
       "cad_cam": "We work with CAD / CAM: computer aided design / computer aided manufacturing.",
-      "werkbereik": "We design with a drawing program, the computer-controlled cutter reads the drawing and makes the furniture. The cutter, actually a saw robot, is built by us and has a working range of 250 x 135 x 40 cm."
+      "werkbereik": "We design with a drawing program, the computer-controlled cutter reads the drawing and makes the furniture. The cutter, actually a milling robot, is built by us and has a working range of 250 x 135 x 40 cm."
     },
     "geeks": {
       "voor_de_geeks": "For the Geeks",
