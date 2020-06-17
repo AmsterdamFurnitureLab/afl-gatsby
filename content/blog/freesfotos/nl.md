@@ -9,4 +9,8 @@ thumbnail: ./frees-aan-het-werk-1.jpg
 ![Frees](./frees-aan-het-werk-1.jpg)
 
 </div>
+<div class="kg-card kg-image-card kg-width-wide">
 
+![Frees](./wasbakBinnen.jpg)
+
+</div>
