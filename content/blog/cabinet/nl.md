@@ -35,5 +35,5 @@ of met laden.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![cabinet](./KZS2 voor.jpeg)
-Voor materiaal mogelijkheden zie 'materialen'.
+For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
