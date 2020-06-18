@@ -8,7 +8,7 @@ thumbnail: ./bambooKidsSalonTable1.jpeg
 Top 30 mm Bamboe in olie, frame 10 mm zwart mdf. <br> Available in any size and shape.
 
 
-For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+For meer materiaal mogelijkheden [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
 
 
