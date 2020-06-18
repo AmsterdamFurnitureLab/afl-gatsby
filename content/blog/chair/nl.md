@@ -25,5 +25,5 @@ Materiaal: populieren multiplex
 
 ![chair](./P9Lschuinachter.LARGE.jpg)
 
-Voor meer materiaal opties, zie 'materialen'.
+For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
