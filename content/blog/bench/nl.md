@@ -17,5 +17,5 @@ description: Bank No.1
 ![bench1](./bank1 rechtsvoor.jpeg)
 Frame zwart mdf, zitting en rugleuning groen mdf. <br>
 In iedere maat leverbaar. <br>
-For meer opties: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
