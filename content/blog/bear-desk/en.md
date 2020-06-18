@@ -50,5 +50,5 @@ Material: pine multiplex
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![Bear](./AFL_kids8.jpeg)
-For more material options, see 'materials'.
+For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
 </div>
