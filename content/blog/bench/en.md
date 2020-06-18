@@ -17,4 +17,5 @@ thumbnail: ./bank1 rechtsvoor3.jpeg
 ![bench1](./bank1 rechtsvoor.jpeg)
 Frame black mdf, seat and backrest green mdf.<br>
 Available in every size.
+For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
 </div>
