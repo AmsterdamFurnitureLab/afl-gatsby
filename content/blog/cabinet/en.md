@@ -34,5 +34,5 @@ Custom made in desired size. <br> Many material options, see 'Materials'. <br>Op
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![cabinet](./KZS2 voor.jpeg)
-
+For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
 </div>
