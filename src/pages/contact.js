@@ -33,7 +33,7 @@ const AboutPage = ({ data }, location) => {
           <p>Amsterdam Furniture Lab</p>
           <p>Durgerdammerdijk 1010, 1026 CR Amsterdam</p>
           <p> 06 26010099</p>
-          <p><info@amsterdamfurniturelab.nl&gt;</p>
+          <p>info@amsterdamfurniturelab.nl</p>
           <p>Iban: NL68 TRIO 0198379722</p>
           <p>Btw nr.: NL1867.81.441.B.01</p>
           <p>KvK nr.: 34274010 </p>
