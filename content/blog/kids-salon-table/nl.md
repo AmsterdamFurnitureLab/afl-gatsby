@@ -2,7 +2,16 @@
 title: Salon Tafel
 date: "2016-03-01"
 thumbnail: ./bambooKidsSalonTable1.jpeg
-description: 30 mm dik bamboe blad met meubelolie afwerking / zwart mdf frame / maat 50 x 70 cm
+
+<div class="kg-card kg-image-card kg-width-wide">
+
+Top 30 mm Bamboe in olie, frame 10 mm zwart mdf. <br> Available in any size and shape.
+
+
+For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+</div>
+
+
 ---
 
 
