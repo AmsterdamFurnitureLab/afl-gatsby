@@ -35,6 +35,6 @@ Maat: 205 x 40 x 80 cm.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
-For meer materiaal mogelijkheden: [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+For meer materiaal mogelijkheden [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
 
