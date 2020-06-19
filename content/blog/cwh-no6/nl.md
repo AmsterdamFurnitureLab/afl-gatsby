@@ -30,6 +30,7 @@ Maat: 205 x 40 x 80 cm.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0746.jpeg)
+De achterkant van een kast hoeft niet lelijk te zijn.
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
