@@ -8,7 +8,7 @@ thumbnail: ./bank1 rechtsvoor3.jpeg
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![bench1](./bank1 linksvoor.jpeg)
-
+width 300 cm.
 </div>
 
 
