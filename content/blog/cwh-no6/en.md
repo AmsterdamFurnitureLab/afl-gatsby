@@ -27,6 +27,7 @@ Size: 205 x 40 x 80 cm.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0744.jpeg)
+It may be the back side, but it does not need to be ugly.
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
