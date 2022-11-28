@@ -1,8 +1,8 @@
 import React from "react"
-import Slider from "@material-ui/core/Slider"
+// import Slider from "@material-ui/core/Slider"
 import PropTypes from "prop-types"
-import { withStyles, makeStyles } from "@material-ui/core/styles"
-import Tooltip from "@material-ui/core/Tooltip"
+import { withStyles, makeStyles } from "tss-react/mui"
+import { Tooltip, Slider } from "@mui/material"
 
 const useStyles = makeStyles(theme => ({
   root: {

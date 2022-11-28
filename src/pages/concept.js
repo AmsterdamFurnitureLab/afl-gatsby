@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import Img from "gatsby-image"
+import { StaticImage } from "gatsby-plugin-image"
 // import { useIntl, Link, FormattedMessage } from "gatsby-plugin-intl"
 import { FormattedMessage } from "gatsby-plugin-intl"
 
@@ -40,7 +40,7 @@ const AboutPage = ({ data }, location) => {
               </ul>
             </div>
             <figure className="kg-card kg-image-card">
-              <Img
+              <StaticImage
                 fluid={data.introImage.childImageSharp.fluid}
                 className="kg-image"
               />
