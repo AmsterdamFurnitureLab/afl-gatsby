@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -31,7 +31,7 @@ class BlogPostTemplate extends React.Component {
 
           {post.frontmatter.thumbnail && (
             <div className="post-content-image">
-              <StaticImage
+              <GatsbyImage
                 className="kg-image"
                 fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
                 alt={post.frontmatter.title}

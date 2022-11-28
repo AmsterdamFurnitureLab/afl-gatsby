@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 // import { useIntl, Link, FormattedMessage } from "gatsby-plugin-intl"
 import { FormattedMessage } from "gatsby-plugin-intl"
 

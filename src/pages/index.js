@@ -1,6 +1,6 @@
 import React from "react"
 import {graphql, StaticQuery} from "gatsby"
-// import { StaticImage } from "gatsby-plugin-image"
+// import { GatsbyImage } from "gatsby-plugin-image"
 import {IntlContextConsumer, FormattedMessage} from "gatsby-plugin-intl"
 
 import Layout from "../components/layout"

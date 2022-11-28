@@ -1,6 +1,6 @@
 import React from "react"
 import { graphql, StaticQuery } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 // import { useIntl, Link, FormattedMessage } from "gatsby-plugin-intl"
 import { FormattedMessage } from "gatsby-plugin-intl"
 
@@ -34,7 +34,7 @@ const AboutPage = ({ data }, location) => {
             <dt>Mdf</dt>
             <dt>Gekleurd mdf</dt>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.stapeltje.childImageSharp.fluid}
                 className="kg-image"
               />
@@ -43,7 +43,7 @@ const AboutPage = ({ data }, location) => {
               </figcaption>
             </figure>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.innovus.childImageSharp.fluid}
                 className="kg-image"
               />
@@ -52,7 +52,7 @@ const AboutPage = ({ data }, location) => {
               </figcaption>
             </figure>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.kleurenwaaier.childImageSharp.fluid}
                 className="kg-image"
               />
@@ -69,7 +69,7 @@ const AboutPage = ({ data }, location) => {
               </p>
             </dd>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.pineMultiplex.childImageSharp.fluid}
                 className="kg-image"
               />
@@ -84,7 +84,7 @@ const AboutPage = ({ data }, location) => {
             </dd>
             <dt>Betonplex bruin of rood</dt>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.betonplex.childImageSharp.fluid}
                 className="kg-image"
               />
@@ -102,7 +102,7 @@ const AboutPage = ({ data }, location) => {
               </p>
             </dd>
             <figure className="kg-card kg-image-card">
-              <StaticImage
+              <GatsbyImage
                 fluid={data.multiplex_hpl.childImageSharp.fluid}
                 className="kg-image"
               />
