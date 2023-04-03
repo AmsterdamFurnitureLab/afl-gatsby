@@ -102,7 +102,7 @@ exports.createPages = ({graphql, actions}) => {
             let s = post.node.fields.slug;
             // s = s.substr(s.length - 4, s.length) + s.substr(1, s.length - 4);
             // s = "/" + s.substr(1, s.length - 4);
-            console.log('hierro: ', s);
+            // console.log('hierro: ', s);
             createPage({
                 path: s,
                 component: blogPost,
@@ -139,7 +139,7 @@ exports.onCreateNode = ({node, actions, getNode}) => {
     // }
     const { createNodeField } = actions;
     if (node.internal.type === "MarkdownRemark") {
-        console.log(' $$$$$$$ ##### hieroooooooooo: ', node);
+        // console.log(' $$$$$$$ ##### hieroooooooooo: ', node);
 
         let { slug = "" } = node.frontmatter;
 
