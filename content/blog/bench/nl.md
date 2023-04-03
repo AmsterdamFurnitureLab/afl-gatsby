@@ -7,14 +7,14 @@ description: Bank No.1
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![bench1](./bank1 linksvoor.jpeg)
+![bench1](./bank1_linksvoor.jpeg)
 breedte 300 cm.
 </div>
 
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![bench1](./bank1 rechtsvoor.jpeg)
+![bench1](./bank1_rechtsvoor.jpeg)
 Frame zwart mdf, zitting en rugleuning groen mdf. <br>
 In iedere maat leverbaar. <br>
 Voor meer materiaal mogelijkheden zie [Materialen](http://amsterdamfurniturelab.nl/nl/materials)

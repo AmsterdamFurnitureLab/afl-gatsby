@@ -28,12 +28,12 @@ of met laden.
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![cabinet](./KZS2 linksvoor.jpeg)
+![cabinet](./KZS2_linksvoor.jpeg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-![cabinet](./KZS2 voor.jpeg)
+![cabinet](./KZS2_voor.jpeg)
 Voor meer materiaal mogelijkheden zie [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
 </div>
