@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
+import { getSrc } from "gatsby-plugin-image";
 
 export default (props) => (
 	<article
@@ -8,7 +9,7 @@ export default (props) => (
 		}`}
 		style={
 			props.node.frontmatter.thumbnail && {
-				backgroundImage: `url(${props.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData.src})`,
+				backgroundImage: `url(${getSrc(props.node.frontmatter.thumbnail.childImageSharp.gatsbyImageData)})`,
 			}
 		}
 	>
