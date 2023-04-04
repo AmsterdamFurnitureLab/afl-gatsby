@@ -24,5 +24,5 @@ Material: pine multiplex
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![chair](./P9Lschuinachter.LARGE.jpg)
-For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
+For more material options, see [Materials](/en/materials)
 </div>
