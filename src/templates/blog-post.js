@@ -29,7 +29,7 @@ class BlogPostTemplate extends React.Component {
 						<div className="post-content-image">
 							<GatsbyImage
 								className="kg-image"
-								fluid={post.frontmatter.thumbnail.childImageSharp.fluid}
+								fluid={post.frontmatter.thumbnail.childImageSharp.gatsbyImageData}
 								alt={post.frontmatter.title}
 							/>
 						</div>
@@ -69,9 +69,7 @@ export const pageQuery = graphql`
 				description
 				thumbnail {
 					childImageSharp {
-						fluid(maxWidth: 1360) {
-							...GatsbyImageSharpFluid
-						}
+						gatsbyImageData(layout: FULL_WIDTH)
 					}
 				}
 			}

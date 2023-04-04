@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
-import Img from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 // import { useIntl, Link, FormattedMessage } from "gatsby-plugin-intl"
 import { FormattedMessage } from "gatsby-plugin-intl";
 
@@ -28,19 +28,28 @@ const AboutPage = ({ data }, location) => {
 						<dt>Mdf</dt>
 						<dt>Gekleurd mdf</dt>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.stapeltje.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.stapeltje.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
 						</figure>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.innovus.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.innovus.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
 						</figure>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.kleurenwaaier.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.kleurenwaaier.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -54,7 +63,10 @@ const AboutPage = ({ data }, location) => {
 							</p>
 						</dd>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.pineMultiplex.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.pineMultiplex.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -66,7 +78,10 @@ const AboutPage = ({ data }, location) => {
 						</dd>
 						<dt>Betonplex bruin of rood</dt>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.betonplex.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.betonplex.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -80,7 +95,10 @@ const AboutPage = ({ data }, location) => {
 							</p>
 						</dd>
 						<figure className="kg-card kg-image-card">
-							<Img fluid={data.multiplex_hpl.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								image={data.multiplex_hpl.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -99,7 +117,7 @@ const AboutPage = ({ data }, location) => {
 };
 
 const indexQuery = graphql`
-	query {
+	{
 		site {
 			siteMetadata {
 				title
@@ -107,44 +125,32 @@ const indexQuery = graphql`
 		}
 		pineMultiplex: file(relativePath: { eq: "v_sch3.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 		betonplex: file(relativePath: { eq: "materialen/betonplex_bruin&rood.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 		stapeltje: file(relativePath: { eq: "materialen/gekleurd_mdf/stapeltjemdf.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 		innovus: file(relativePath: { eq: "materialen/gekleurd_mdf/innovus.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 		kleurenwaaier: file(relativePath: { eq: "materialen/gekleurd_mdf/kleurenwaaier.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 		multiplex_hpl: file(relativePath: { eq: "materialen/multiplex_hpl.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 	}

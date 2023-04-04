@@ -61,7 +61,7 @@ const BlogIndex = ({ data }, location) => {
 };
 
 const indexQuery = graphql`
-	query {
+	{
 		site {
 			siteMetadata {
 				title
@@ -80,9 +80,7 @@ const indexQuery = graphql`
 						description
 						thumbnail {
 							childImageSharp {
-								fluid(maxWidth: 1360) {
-									...GatsbyImageSharpFluid
-								}
+								gatsbyImageData(layout: FULL_WIDTH)
 							}
 						}
 					}

@@ -44,7 +44,10 @@ const AboutPage = ({ data }, location) => {
 							</ul>
 						</div>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.introImage.childImageSharp.fluid} className="kg-image" />
+							<GatsbyImage
+								fluid={data.introImage.childImageSharp.gatsbyImageData}
+								className="kg-image"
+							/>
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -151,7 +154,7 @@ const AboutPage = ({ data }, location) => {
 };
 
 const indexQuery = graphql`
-	query {
+	{
 		site {
 			siteMetadata {
 				title
@@ -159,9 +162,7 @@ const indexQuery = graphql`
 		}
 		introImage: file(relativePath: { eq: "cncCloseUp.jpeg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 	}

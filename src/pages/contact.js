@@ -38,7 +38,7 @@ const AboutPage = ({ data }, location) => {
 };
 
 const indexQuery = graphql`
-	query {
+	{
 		site {
 			siteMetadata {
 				title
@@ -46,9 +46,7 @@ const indexQuery = graphql`
 		}
 		introImage: file(relativePath: { eq: "v_sch3.jpg" }) {
 			childImageSharp {
-				fluid(maxWidth: 1360) {
-					...GatsbyImageSharpFluid
-				}
+				gatsbyImageData(layout: FULL_WIDTH)
 			}
 		}
 	}
