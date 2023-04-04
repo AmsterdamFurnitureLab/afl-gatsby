@@ -17,5 +17,5 @@ breedte 300 cm.
 ![bench1](./bank1_rechtsvoor.jpeg)
 Frame zwart mdf, zitting en rugleuning groen mdf. <br>
 In iedere maat leverbaar. <br>
-Voor meer materiaal mogelijkheden zie [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+Voor meer materiaal mogelijkheden zie [Materialen](/nl/materials)
 </div>

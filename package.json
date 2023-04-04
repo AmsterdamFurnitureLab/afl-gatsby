@@ -53,7 +53,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.14",
     "eslint": "^8.37.0",
-    "husky": "^8.0.3",
     "postcss-color-function": "^4.1.0",
     "postcss-custom-properties": "^13.1.4",
     "postcss-easy-import": "^4.0.0",
@@ -82,11 +81,6 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "cleancache": "gatsby clean"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
   },
   "browserslist": [
     "last 1 version",

@@ -34,5 +34,5 @@ Custom made in desired size. <br>Open shelves and/or drawers also possible.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![cabinet](./KZS2_voor.jpeg)
-For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
+For more material options, see [Materials](/en/materials)
 </div>

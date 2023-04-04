@@ -10,6 +10,6 @@ thumbnail: ./bambooKidsSalonTable1.jpeg
 
 Top 30 mm Bamboo in oil, frame 10 mm black mdf. <br>Available in any size and shape.
 
-For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
+For more material options, see [Materials](/en/materials)
 
 </div>

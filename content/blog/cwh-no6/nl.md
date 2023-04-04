@@ -36,6 +36,6 @@ De achterkant van een kast hoeft niet lelijk te zijn.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
-For meer materiaal mogelijkheden zie [Materialen](http://amsterdamfurniturelab.nl/nl/materials)
+For meer materiaal mogelijkheden zie [Materialen](/nl/materials)
 </div>
 

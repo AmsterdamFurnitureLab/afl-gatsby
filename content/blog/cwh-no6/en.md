@@ -38,7 +38,7 @@ It may be the back side, but it does not need to be ugly.
 <div class="kg-card kg-image-card kg-width-wide">
 
 ![CWH-6](./IMG_0753.jpeg)
-For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
+For more material options, see [Materials](/en/materials)
 </div>
 
 

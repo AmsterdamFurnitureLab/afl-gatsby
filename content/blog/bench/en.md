@@ -17,5 +17,5 @@ width 300 cm.
 ![bench1](./bank1_rechtsvoor.jpeg)
 Frame black mdf, seat and backrest green mdf.<br>
 Available in every size.
-For more material options, see [Materials](http://amsterdamfurniturelab.nl/en/materials)
+For more material options, see [Materials](/en/materials)
 </div>
