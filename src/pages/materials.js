@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql, StaticQuery } from "gatsby";
-import { GatsbyImage } from "gatsby-plugin-image";
+import Img from "gatsby-image";
 // import { useIntl, Link, FormattedMessage } from "gatsby-plugin-intl"
 import { FormattedMessage } from "gatsby-plugin-intl";
 
@@ -28,19 +28,19 @@ const AboutPage = ({ data }, location) => {
 						<dt>Mdf</dt>
 						<dt>Gekleurd mdf</dt>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.stapeltje.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.stapeltje.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
 						</figure>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.innovus.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.innovus.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
 						</figure>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.kleurenwaaier.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.kleurenwaaier.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -54,7 +54,7 @@ const AboutPage = ({ data }, location) => {
 							</p>
 						</dd>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.pineMultiplex.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.pineMultiplex.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -66,7 +66,7 @@ const AboutPage = ({ data }, location) => {
 						</dd>
 						<dt>Betonplex bruin of rood</dt>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.betonplex.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.betonplex.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
@@ -80,7 +80,7 @@ const AboutPage = ({ data }, location) => {
 							</p>
 						</dd>
 						<figure className="kg-card kg-image-card">
-							<GatsbyImage fluid={data.multiplex_hpl.childImageSharp.fluid} className="kg-image" />
+							<Img fluid={data.multiplex_hpl.childImageSharp.fluid} className="kg-image" />
 							<figcaption>
 								{/*<FormattedMessage id="concept.nieuwe_verbindingstechnieken" />*/}
 							</figcaption>
