@@ -1,7 +1,7 @@
 ---
 title: Bank No.1
 date: "2017-03-02"
-thumbnail: ./bank1 rechtsvoor3.jpeg
+thumbnail: bank_leeg1.jpg
 description: Bank No.1
 ---
 

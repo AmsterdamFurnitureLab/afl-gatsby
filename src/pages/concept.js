@@ -45,7 +45,7 @@ const AboutPage = ({ data }, location) => {
 						</div>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.introImage.childImageSharp.gatsbyImageData}
+								image={data.introImage.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>

@@ -29,7 +29,7 @@ class BlogPostTemplate extends React.Component {
 						<div className="post-content-image">
 							<GatsbyImage
 								className="kg-image"
-								fluid={post.frontmatter.thumbnail.childImageSharp.gatsbyImageData}
+								image={post.frontmatter.thumbnail.childImageSharp.gatsbyImageData}
 								alt={post.frontmatter.title}
 							/>
 						</div>

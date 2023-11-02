@@ -1,7 +1,7 @@
 ---
 title: Bench No.1
 date: "2020-03-02"
-thumbnail: ./bank1 rechtsvoor3.jpeg
+thumbnail: bank_leeg1.jpg
 
 ---
 

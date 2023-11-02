@@ -29,7 +29,7 @@ const AboutPage = ({ data }, location) => {
 						<dt>Gekleurd mdf</dt>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.stapeltje.childImageSharp.gatsbyImageData}
+								image={data.stapeltje.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
@@ -38,7 +38,7 @@ const AboutPage = ({ data }, location) => {
 						</figure>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.innovus.childImageSharp.gatsbyImageData}
+								image={data.innovus.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
@@ -47,7 +47,7 @@ const AboutPage = ({ data }, location) => {
 						</figure>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.kleurenwaaier.childImageSharp.gatsbyImageData}
+								image={data.kleurenwaaier.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
@@ -64,7 +64,7 @@ const AboutPage = ({ data }, location) => {
 						</dd>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.pineMultiplex.childImageSharp.gatsbyImageData}
+								image={data.pineMultiplex.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
@@ -79,7 +79,7 @@ const AboutPage = ({ data }, location) => {
 						<dt>Betonplex bruin of rood</dt>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.betonplex.childImageSharp.gatsbyImageData}
+								image={data.betonplex.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
@@ -96,7 +96,7 @@ const AboutPage = ({ data }, location) => {
 						</dd>
 						<figure className="kg-card kg-image-card">
 							<GatsbyImage
-								fluid={data.multiplex_hpl.childImageSharp.gatsbyImageData}
+								image={data.multiplex_hpl.childImageSharp.gatsbyImageData}
 								className="kg-image"
 							/>
 							<figcaption>
