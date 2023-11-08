@@ -1,7 +1,7 @@
 ---
 title: Bear Desk & Seat
-date: "2020-03-20"
-thumbnail: AFL_kids8_detail.jpeg
+date: "2023-11-09"
+thumbnail: 4.jpeg
 description: Toddler Desk with Separate Seat
 ---
 
@@ -22,7 +22,7 @@ Material: pine multiplex
 
 ![](AFL_kids10.jpeg)
 
-![](AFL_kids8.jpeg)
+![](AFL_kids8_detail.jpeg)
 For more material options, see [Materials](/en/materials)
 
 ![](1.jpeg)

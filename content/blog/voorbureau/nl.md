@@ -1,8 +1,10 @@
 ---
 title: Voorbureau
 date: "2023-11-08"
-thumbnail: ./1.jpeg
+thumbnail: ./4.jpeg
 ---
+
+![](1.jpeg)
 
 ![](2.jpeg)
 
@@ -10,4 +12,4 @@ thumbnail: ./1.jpeg
 
 ![](4.jpeg)
 
-![](5.jpeg)s
+![](5.jpeg)

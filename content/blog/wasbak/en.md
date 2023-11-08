@@ -1,8 +1,10 @@
 ---
 title: Sink & shower
 date: "2023-11-08"
-thumbnail: wasbak_1.jpeg
+thumbnail: wasbak_3.jpeg
 ---
+
+![](wasbak_1.jpeg)
 
 ![](wasbak_2.jpeg)
 

@@ -1,8 +1,10 @@
 ---
 title: Turtles
 date: "2023-11-07"
-thumbnail: ./1.jpeg
+thumbnail: ./4.jpeg
 ---
+
+![](1.jpeg)
 
 ![](2.jpeg)
 

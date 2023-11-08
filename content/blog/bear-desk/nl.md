@@ -1,7 +1,7 @@
 ---
 title: Beer Tafel & Stoel
-date: "2023-11-08"
-thumbnail: AFL_kids8_detail.jpeg
+date: "2023-11-09"
+thumbnail: 4.jpeg
 description: Voor peuters en kleuters
 ---
 
@@ -22,7 +22,7 @@ Materiaal: populieren multiplex.
 
 ![](AFL_kids10.jpeg)
 
-![](AFL_kids8.jpeg)
+![](AFL_kids8_detail.jpeg)
 Voor meer materiaal mogelijkheden zie [Materialen](/nl/materials)
 
 ![](1.jpeg)
