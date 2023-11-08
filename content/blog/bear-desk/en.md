@@ -1,54 +1,40 @@
 ---
 title: Bear Desk & Seat
 date: "2020-03-20"
-thumbnail: ./AFL_kids8_detail.jpeg
+thumbnail: AFL_kids8_detail.jpeg
 description: Toddler Desk with Separate Seat
 ---
-<div class="kg-card kg-image-card kg-width-wide">
 
-![Bear](./AFL_kids12.jpeg)
+![](AFL_kids12.jpeg)
 Material: pine multiplex
-</div>
 
-<div class="kg-card kg-image-card kg-width-wide">
+![](AFL_kids10_detail_01.jpeg)
 
-![Bear](./AFL_kids10_detail_01.jpeg)
+![](AFL_kids9.jpeg)
 
-</div>
-<div class="kg-card kg-image-card kg-width-wide">
- 
-![Bear](./AFL_kids9.jpeg)
+![](AFL_kids3.jpeg)
 
-</div>
-<div class="kg-card kg-image-card kg-width-wide">
+![](AFL_kids11.jpeg)
 
-![Bear](./AFL_kids3.jpeg)
+![](AFL_kids2.jpeg)
 
-</div>
+![](AFL_kids13.jpeg)
 
-<div class="kg-card kg-image-card kg-width-wide">
+![](AFL_kids10.jpeg)
 
-![Bear](./AFL_kids11.jpeg)
-
-</div>
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids2.jpeg)
-
-</div>
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids13.jpeg)
-
-</div>
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids10.jpeg)
-
-</div>
-
-<div class="kg-card kg-image-card kg-width-wide">
-
-![Bear](./AFL_kids8.jpeg)
+![](AFL_kids8.jpeg)
 For more material options, see [Materials](/en/materials)
-</div>
+
+![](1.jpeg)
+
+![](2.jpeg)
+
+![](3.jpeg)
+
+![](4.jpeg)
+
+![](5.jpeg)
+
+![](6.jpeg)
+
+![](7.jpeg)
