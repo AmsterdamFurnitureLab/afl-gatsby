@@ -1,11 +1,14 @@
 ---
 title: CNC mill
 date: "2010-01-01"
-thumbnail: ./frees-aan-het-werk-1.jpg
+thumbnail: ./frees-aan-het-werk-1.jpeg
 
 ---
-<div class="kg-card kg-image-card kg-width-wide">
 
-![Frees](./wasbakBinnen.jpg)
+![](wasbakBinnen.jpeg)
 
-</div>
+![](efoilboard_ralph.jpeg)
+
+![](IMG_5004.jpeg)
+
+![](IMG_5005.jpeg)
