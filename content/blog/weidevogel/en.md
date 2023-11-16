@@ -1,14 +1,14 @@
 ---
-title: Weidevogel
+title: Weidevogel groep 7
 date: "2023-11-08"
-thumbnail: ./4.jpeg
-description: Weidevogel kindertekeningen
+thumbnail: ./stapel.jpeg
+description: Hands-on workshop during Talent Week
 ---
 
-![](1.jpeg)
+![](birb_tekening.jpeg) ![](birb_resultaat.jpeg)
 
-![](2.jpeg)
+![](cavia_tekening.jpeg) ![](cavia_resultaat.jpeg)
 
-![](3.jpeg)
+![](leeuw_tekening.jpeg) ![](leeuw_resultaat.jpeg)
 
-![](4.jpeg)
+![](stapel.jpeg)

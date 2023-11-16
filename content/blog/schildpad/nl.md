@@ -1,7 +1,7 @@
 ---
 title: Schildpad
 date: "2023-11-07"
-thumbnail: ./4.jpeg
+thumbnail: ./thumbnail.jpeg
 ---
 
 ![](1.jpeg)
@@ -9,5 +9,3 @@ thumbnail: ./4.jpeg
 ![](2.jpeg)
 
 ![](3.jpeg)
-
-![](4.jpeg)

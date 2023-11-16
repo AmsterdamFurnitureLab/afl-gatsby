@@ -1,14 +1,33 @@
 ---
-title: Weidevogel
+title: Weidevogel class 7
 date: "2023-11-08"
-thumbnail: ./4.jpeg
-description: Weidevogel children's drawings
+thumbnail: ./stapel.jpeg
+description: Hands-on workshop tijdens de Talentenweek
 ---
 
-![](1.jpeg)
+<style>
+tr, td, th {
+	border: none !important;
+}
 
-![](2.jpeg)
+td span {
+	margin: auto !important;
+	padding: auto !important;
+}
+</style>
 
-![](3.jpeg)
 
-![](4.jpeg)
+<table>
+	<tr>
+		<td><img src="birb_tekening.jpeg"></td>
+		<td><img src="birb_resultaat.jpeg"></td>
+	</tr>
+	<tr>
+		<td><img src="cavia_tekening.jpeg"></td>
+		<td><img src="cavia_resultaat.jpeg"></td>
+	</tr>
+	<tr>
+		<td><img src="leeuw_tekening.jpeg"></td>
+		<td><img src="leeuw_resultaat.jpeg"></td>
+	</tr>
+</table>

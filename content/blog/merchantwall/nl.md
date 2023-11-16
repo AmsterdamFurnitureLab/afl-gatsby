@@ -1,15 +1,20 @@
 ---
 title: Merchant wall
-date: "2023-11-07"
-thumbnail: ./5.jpeg
+date: "2023-11-08"
+thumbnail: ./thumbnail.jpeg
+description: "Materiaal: esdoorn"
 ---
 
-![](1.jpeg)
+![](render.jpeg)
 
-![](2.jpeg)
+![](IMG_8815.jpeg)
 
-![](3.jpeg)
+![](IMG_8816.jpeg)
 
-![](4.jpeg)
+![](IMG_8823.jpeg)
 
-![](5.jpeg)
+![](IMG_8831.jpeg)
+
+![](IMG_8821.jpeg)
+
+![](IMG_8818.jpeg)
