@@ -7,6 +7,11 @@ class LanguageSwitcher extends Component {
 		return code === "en" ? "Nederlands" : "English";
 	}
 
+	changeLocaleMyWayLmao(code) {
+		changeLocale(code);
+		window.location.assign(window.location.href.replace(/\/(en|nl)\//g, `/${code}/`));
+	}
+
 	render() {
 		return (
 			<IntlContextConsumer>
@@ -16,7 +21,7 @@ class LanguageSwitcher extends Component {
 						// Todo
 						onClick={() => {
 							console.log(`Current Locale: `, currentLocale);
-							currentLocale === "en" ? changeLocale("nl") : changeLocale("en");
+							this.changeLocaleMyWayLmao(currentLocale === "en" ? "nl" : "en");
 						}}
 					>
 						<Helmet>

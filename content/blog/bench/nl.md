@@ -10,9 +10,9 @@ Frame zwart mdf, zitting en rugleuning groen mdf.
 In iedere maat leverbaar.  
 Voor meer materiaal mogelijkheden zie [Materialen](/nl/materials)
 
-![](./bank1_linksvoor.jpeg)
+![](bank1_linksvoor.jpeg)
 
-![](./bank1_rechtsvoor.jpeg)
+![](bank1_rechtsvoor.jpeg)
 
 ![](PBank1.jpeg)
 
