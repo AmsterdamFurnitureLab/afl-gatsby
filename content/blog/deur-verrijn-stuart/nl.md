@@ -1,8 +1,7 @@
 ---
-title: Deuren Verijn Stuart
+title: Deuren Verijn Stuart (AFLab met fiddlewood)
 date: "2023-11-07"
 thumbnail: ./1.jpeg
-description: AFLab met fiddlewood
 ---
 
 ![](2.jpeg)

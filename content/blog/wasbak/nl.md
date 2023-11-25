@@ -1,5 +1,5 @@
 ---
-title: Wasbak & douche
+title: Wasbak & douchebak
 date: "2023-11-07"
 thumbnail: wasbak_4.jpeg
 description: "Maatwerk naar tekening klant. Materiaal: iroko in epoxy"

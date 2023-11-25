@@ -1,5 +1,5 @@
 ---
-title: Awards
+title: Awards AFLab with Leenheerst
 date: "2023-11-06"
 thumbnail: ./1.jpeg
 description: Custom logo's in walnut, zebrano, mahogany and more

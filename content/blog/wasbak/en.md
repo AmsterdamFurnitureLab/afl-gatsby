@@ -1,5 +1,5 @@
 ---
-title: Sink & shower
+title: Sink & shower tray
 date: "2023-11-07"
 thumbnail: wasbak_4.jpeg
 description: "From client's drawing. Material: iroko in epoxy"
